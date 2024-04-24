@@ -21,12 +21,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/folder-sync-project.git
-   cd folder-sync-project
+   git clone https://github.com/yourusername/veeam_folder_sync-project.git
+   cd veeam_folder_sync-project
+
 2. **Set up a virtual environment (Optional but recommended):**
    ```bash
-   python -m venv veaam_env 
-   source veaam_env/Scripts/activate # Use this command on Windows with Git Bash
+   python -m venv veeam_env 
+   source veeam_env/Scripts/activate # Use this command on Windows with Git Bash
 3. **Install required packages:**
    ```bash
    pip install -r requirements.txt
